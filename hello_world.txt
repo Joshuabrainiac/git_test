@@ -1,0 +1,2 @@
+This is my first text file to be committed and pushed to github from my phone
+s termux
